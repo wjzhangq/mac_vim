@@ -1,0 +1,4 @@
+在shell中执行一下代码：
+ln -s ~/zwj/git/mac_vim/dotvimrc ~/.vimrc
+ln -s ~/zwj/git/mac_vim/dotvim ~/.vim
+
